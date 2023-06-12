@@ -1,0 +1,27 @@
+{
+  "name": "pair53_sprint1",
+  "version": "1.0.0",
+  "description": "### Frontend implementation:",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha.js tests/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CU-Software-Engineering-2023/pair53_sprint1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CU-Software-Engineering-2023/pair53_sprint1/issues"
+  },
+  "homepage": "https://github.com/CU-Software-Engineering-2023/pair53_sprint1#readme",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  },
+  "type": "module"
+}
